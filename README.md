@@ -1,6 +1,6 @@
-- Hello i am alan, currently pursuing a b.tech in Computer Science and Bussiness Systems from the Vellore Institute of Technology
-- I’m interested in machine learning and the sport of formula one
-- I’m currently learning more about ml and trying to go more indepth in it
+- Hello i am alan, currently pursuing a b.tech in Computer Science and Bussiness Systems from the Vellore Institute of Technology.
+- I’m interested in machine learning and the sport of formula one.
+- I’m currently learning more about ml and trying to go more indepth in it.
 
 
 <!---
